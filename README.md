@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Buzz42er
 - 👀 I’m interested in FrontEnd Dev, ReactJS(for now)
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning restAPI, jsonServers, and data extraction/incorporation
 - 💞️ I’m looking to collaborate on ... not defined jet
 - 📫 How to reach me ... here :)
 
